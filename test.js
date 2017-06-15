@@ -1,4 +1,4 @@
-var robot = require('./index.js')('xxxxxxxxxx');
+var robot = require('./index.js')('1d85a67a708542abaa89357a61ba6bb01f73075ce44823444dd5aa6f2556d303');
 
 // send text format message
 robot.send({
@@ -9,7 +9,7 @@ robot.send({
     at: {
         atMobiles: [
             '156xxxx8827',
-            '189xxxx8325'
+            '17190999731'
         ],
         isAtAll: false
     }
